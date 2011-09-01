@@ -1,6 +1,6 @@
 require 'sass'
 require 'sass/script/functions'
-require 'sass-rails' if ActiveAdmin::DependencyChecker.rails_3_1?
+#require 'sass-rails' if ActiveAdmin::DependencyChecker.rails_3_1?
 
 module ActiveAdmin
   module Sass
